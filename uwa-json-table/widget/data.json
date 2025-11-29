@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Lalit", "location": "Pune" },
+  { "id": 2, "name": "Rahul", "location": "Hyderabad" },
+  { "id": 3, "name": "Amit", "location": "Bangalore" }
+]

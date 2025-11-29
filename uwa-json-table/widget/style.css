@@ -1,0 +1,17 @@
+.json-table {
+  border-collapse: collapse;
+  width: 60%;
+  font-family: Arial;
+  margin-top: 15px;
+}
+
+.json-table th, .json-table td {
+  border: 1px solid #999;
+  padding: 8px;
+  text-align: left;
+}
+
+.json-table th {
+  background: #f2f2f2;
+  font-weight: bold;
+}
